@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Calum\\Desktop\\cuda\\CUDA Final Lab (2) 1111\\CUDA Final Lab\\Cuda lab 4\\CudaRuntime1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Calum\\Desktop\\cuda\\CUDA Final Lab (2) 1111\\CUDA Final Lab\\Cuda lab 4\\CudaRuntime1\\CudaRuntime1\\Drawing_cuda.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CudaRuntime1\\Drawing_cuda.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6035EBBA-CC31-4AC6-9C93-CB9FB9FB0FE8}|CudaRuntime1\\CudaRuntime1.vcxproj|C:\\Users\\Calum\\Desktop\\cuda\\CUDA Final Lab (2) 1111\\CUDA Final Lab\\Cuda lab 4\\CudaRuntime1\\CudaRuntime1\\Drawing_cuda.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6035EBBA-CC31-4AC6-9C93-CB9FB9FB0FE8}|CudaRuntime1\\CudaRuntime1.vcxproj|solutionrelative:CudaRuntime1\\Drawing_cuda.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Microsoft\\VC\\v170\\BuildCustomizations\\CUDA 12.4.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6035EBBA-CC31-4AC6-9C93-CB9FB9FB0FE8}|CudaRuntime1\\CudaRuntime1.vcxproj|C:\\Users\\Calum\\Desktop\\cuda\\CUDA Final Lab (2) 1111\\CUDA Final Lab\\Cuda lab 4\\CudaRuntime1\\CudaRuntime1\\sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6035EBBA-CC31-4AC6-9C93-CB9FB9FB0FE8}|CudaRuntime1\\CudaRuntime1.vcxproj|solutionrelative:CudaRuntime1\\sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6035EBBA-CC31-4AC6-9C93-CB9FB9FB0FE8}|CudaRuntime1\\CudaRuntime1.vcxproj|C:\\Users\\Calum\\Desktop\\cuda\\CUDA Final Lab (2) 1111\\CUDA Final Lab\\Cuda lab 4\\CudaRuntime1\\CudaRuntime1\\ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6035EBBA-CC31-4AC6-9C93-CB9FB9FB0FE8}|CudaRuntime1\\CudaRuntime1.vcxproj|solutionrelative:CudaRuntime1\\ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6035EBBA-CC31-4AC6-9C93-CB9FB9FB0FE8}|CudaRuntime1\\CudaRuntime1.vcxproj|C:\\Users\\Calum\\Desktop\\cuda\\CUDA Final Lab (2) 1111\\CUDA Final Lab\\Cuda lab 4\\CudaRuntime1\\CudaRuntime1\\vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6035EBBA-CC31-4AC6-9C93-CB9FB9FB0FE8}|CudaRuntime1\\CudaRuntime1.vcxproj|solutionrelative:CudaRuntime1\\vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CUDA 12.4.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Microsoft\\VC\\v170\\BuildCustomizations\\CUDA 12.4.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Microsoft\\VC\\v170\\BuildCustomizations\\CUDA 12.4.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Microsoft\\VC\\v170\\BuildCustomizations\\CUDA 12.4.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Microsoft\\VC\\v170\\BuildCustomizations\\CUDA 12.4.targets",
+              "ViewState": "AgIAAAwDAAAAAAAAAAAvwB4DAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-15T07:03:52.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sphere.h",
+              "DocumentMoniker": "C:\\Users\\Calum\\Desktop\\cuda\\CUDA Final Lab (2) 1111\\CUDA Final Lab\\Cuda lab 4\\CudaRuntime1\\CudaRuntime1\\sphere.h",
+              "RelativeDocumentMoniker": "CudaRuntime1\\sphere.h",
+              "ToolTip": "C:\\Users\\Calum\\Desktop\\cuda\\CUDA Final Lab (2) 1111\\CUDA Final Lab\\Cuda lab 4\\CudaRuntime1\\CudaRuntime1\\sphere.h",
+              "RelativeToolTip": "CudaRuntime1\\sphere.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T08:33:41.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vec3.h",
+              "DocumentMoniker": "C:\\Users\\Calum\\Desktop\\cuda\\CUDA Final Lab (2) 1111\\CUDA Final Lab\\Cuda lab 4\\CudaRuntime1\\CudaRuntime1\\vec3.h",
+              "RelativeDocumentMoniker": "CudaRuntime1\\vec3.h",
+              "ToolTip": "C:\\Users\\Calum\\Desktop\\cuda\\CUDA Final Lab (2) 1111\\CUDA Final Lab\\Cuda lab 4\\CudaRuntime1\\CudaRuntime1\\vec3.h",
+              "RelativeToolTip": "CudaRuntime1\\vec3.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T08:59:23.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ray.h",
+              "DocumentMoniker": "C:\\Users\\Calum\\Desktop\\cuda\\CUDA Final Lab (2) 1111\\CUDA Final Lab\\Cuda lab 4\\CudaRuntime1\\CudaRuntime1\\ray.h",
+              "RelativeDocumentMoniker": "CudaRuntime1\\ray.h",
+              "ToolTip": "C:\\Users\\Calum\\Desktop\\cuda\\CUDA Final Lab (2) 1111\\CUDA Final Lab\\Cuda lab 4\\CudaRuntime1\\CudaRuntime1\\ray.h",
+              "RelativeToolTip": "CudaRuntime1\\ray.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T08:39:59.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Drawing_cuda.cu",
+              "DocumentMoniker": "C:\\Users\\Calum\\Desktop\\cuda\\CUDA Final Lab (2) 1111\\CUDA Final Lab\\Cuda lab 4\\CudaRuntime1\\CudaRuntime1\\Drawing_cuda.cu",
+              "RelativeDocumentMoniker": "CudaRuntime1\\Drawing_cuda.cu",
+              "ToolTip": "C:\\Users\\Calum\\Desktop\\cuda\\CUDA Final Lab (2) 1111\\CUDA Final Lab\\Cuda lab 4\\CudaRuntime1\\CudaRuntime1\\Drawing_cuda.cu",
+              "RelativeToolTip": "CudaRuntime1\\Drawing_cuda.cu",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-07T22:46:57.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Drawing_cuda.cpp",
+              "DocumentMoniker": "C:\\Users\\Calum\\Desktop\\cuda\\CUDA Final Lab (2) 1111\\CUDA Final Lab\\Cuda lab 4\\CudaRuntime1\\CudaRuntime1\\Drawing_cuda.cpp",
+              "RelativeDocumentMoniker": "CudaRuntime1\\Drawing_cuda.cpp",
+              "ToolTip": "C:\\Users\\Calum\\Desktop\\cuda\\CUDA Final Lab (2) 1111\\CUDA Final Lab\\Cuda lab 4\\CudaRuntime1\\CudaRuntime1\\Drawing_cuda.cpp",
+              "RelativeToolTip": "CudaRuntime1\\Drawing_cuda.cpp",
+              "ViewState": "AgIAAEQBAAAAAAAAAAAlwFkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-07T22:46:58.308Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
